@@ -1,0 +1,47 @@
+.imagenPrincipal {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+}
+
+
+.imagenSection {
+    height: auto;
+    margin-left: 33px;
+    width: 200px;
+    display: grid;
+    align-items: center;
+    transition: transform 1.5s;
+  }
+  
+  .imagenSection:hover{
+    transform: scale(1.3);
+  }
+
+  
+ .section{
+  display: flex;
+  flex-wrap: row wrap;
+  align-items: center;
+}
+.fotoPortada{
+  width: 500px;
+}
+
+.imagenSection {
+  height: auto;
+  margin-left: 33px;
+  width: 200px;
+  display: grid;
+  align-items: center;
+  transition: transform 1.5s;
+}
+
+.imagenSection:hover{
+  transform: scale(1.3);
+}
+
