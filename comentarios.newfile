@@ -1,0 +1,10 @@
+10/12
+
+se agrega & en archivos scss para mejorar sintaxis.
+Se agregan variables para color de secciones y tamanos varios (en px)
+Se sube cambios guardados a repositorio "bloglufashion"
+Se agrega .gitignore para evitar subir carpeta nodu_modules (pesada)
+Se acoplan todos las variables a carpeta maestra styles.scss
+se agrega bootstrap en pagina contactos (todas las carpetas tienen estilos)
+Se agrega mediaqueries y se chequea en inspeccion de pagina tanto desktop como celular
+Todos los cambios se guardan en git en rama secundario (no se acopla a main todavia) 

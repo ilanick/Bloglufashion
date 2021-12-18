@@ -6,8 +6,9 @@ nav ul li {
     border: 1px solid #996e2e;
     border-radius: 3px;
     padding: 5px 10px;
-  }
   
-  nav li:hover {
+  
+  &hover {
     background-color: rgb(167, 164, 142);
   }
+} 
