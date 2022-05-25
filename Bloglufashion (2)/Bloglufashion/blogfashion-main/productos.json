@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"title": "Campera",
+		"precio": "30000",
+		"detalles": ["para el invierno"],
+		"thumbnailUrl": "imagenes.jpg/campera.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Pantalon",
+		"precio": "12000",
+		"detalles": ["Combinan con todo"],
+		"thumbnailUrl": "imagenes.jpg/pantalones.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Remera",
+		"precio": "7000",
+		"detalles": ["Muy fashion"],
+		"thumbnailUrl": "imagenes.jpg/remera.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Anillos",
+		"precio": "4500",
+		"detalles": ["De oro"],
+		"thumbnailUrl": "imagenes.jpg/anillos-accesorios.jpg"
+	}
+]

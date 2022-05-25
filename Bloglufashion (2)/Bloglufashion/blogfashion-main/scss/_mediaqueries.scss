@@ -1,0 +1,29 @@
+// smartphones
+
+/*@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+    .imagenSection
+    .imagenPrincipal{
+        display: grid;
+        flex-direction: column;
+
+    }
+  }
+  //tablets
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) { 
+    .imagenSection
+    .imagenPrincipal{
+        display: grid;
+        flex-direction: column;
+
+    }
+  }*/
+
+  @media only screen and (min-width:0px) and (max-width: 1000px){
+    section {
+      display: grid;
+      flex-direction: column;
+      font-size: xx-large;
+      color: rgb(105, 112, 80);
+    }
+  }

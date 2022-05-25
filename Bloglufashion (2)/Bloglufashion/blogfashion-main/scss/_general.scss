@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  html{
+    font-size: 62.5%;
+  }
+  
+  body{
+    background-image: url(../blogfashion-main/imagenes.jpg/textura.jpg);
+    color: black;
+    font-family: "Zen Antique Soft", serif;
+    font-size: 18px;
+    line-height: $quincepixeles;
+  }
+  
+  h1 {
+    text-decoration: underline;
+    line-height: $quincepixeles ;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    text-align: center;
+  }
+  h2 {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    text-decoration: none;
+  line-height: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+  }
+  
+  nav a,
+  ul {
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    
+  }
+  p {
+    font-size: 18px;
+    margin: 20px 20px;
+    line-height: 25px;
+  }  
+
